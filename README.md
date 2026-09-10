@@ -242,3 +242,6 @@ This repository serves as the official landing page for Print Edit. The software
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Print Edit today!**
+
+---
+**Last updated:** 2026-09-10 17:36:00 UTC
